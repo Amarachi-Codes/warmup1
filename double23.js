@@ -16,5 +16,5 @@ function double23(arr){
       return true;
     }return false;
   }
-}
+}console.log(double23([2, 2]));
   
